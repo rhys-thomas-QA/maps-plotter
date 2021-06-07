@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "browserify": "^17.0.0",
+    "cors": "^2.8.5",
+    "firebase-functions": "^3.13.2",
+    "google": "^2.1.0",
+    "google-maps": "^4.3.3",
+    "googleapis": "^72.0.0"
+  },
+  "name": "backr-maps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "Test script"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/google-maps": "^3.2.2",
+    "webpack": "^5.35.1",
+    "webpack-cli": "^4.6.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
